@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BvtRun_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BvtRun_jar/0EBSTestAPI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BvtRun_jar/BvtRun.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
